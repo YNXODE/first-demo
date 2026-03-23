@@ -1,4 +1,4 @@
 # first-demo
 This is my 1st repository.
 <br>
-Author - Yogic Nimoria 
+Author - Yogic Yes Nimoria 
